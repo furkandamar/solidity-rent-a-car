@@ -14,6 +14,4 @@ A rented car cannot be rented again until it is delivered.
 npx hardhat compile
 npx hardhat test
 REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
 ```
